@@ -7,7 +7,7 @@
 
 - Actualmente aprendiendo **Nodejs y Vue**
 
-- 👨‍💻 Puedes ver mi repositorio aquí [https://albertocervera.github.io/](https://albertocervera.github.io/)
+- 👨‍💻 Puedes ver mi portfolio aquí [https://albertocervera.github.io/](https://albertocervera.github.io/)
 
 - 📫 Puedes contactarme en **albertocervera20@gmail.com**
 
