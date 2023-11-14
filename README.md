@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=albertocervera&label=Profile%20views&color=0e75b6&style=flat" alt="albertocervera" /> </p>
 
-- Actualmente trabajando en Proyecto Final de FP Grado Superior **Desarrollo de Aplicaciones Web**
+- Actualmente trabajando en Grupo Auttic **Desarrollo de Aplicaciones Web**
 
-- Actualmente aprendiendo **Nodejs y Vue**
+- Actualmente trabajando con **Nodejs y React**
 
 - 👨‍💻 Puedes ver mi portfolio aquí [https://albertocervera.github.io/](https://albertocervera.github.io/)
 
