@@ -9,7 +9,7 @@
 
 - 👨‍💻 Puedes ver mi portfolio aquí [https://albertocervera.github.io/](https://albertocervera.github.io/)
 
-- 📫 Puedes contactarme en **albertocervera20@gmail.com**
+- 📫 Puedes contactarme en **alberto.cervera@hotmail.es**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
