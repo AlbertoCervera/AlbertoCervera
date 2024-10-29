@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Alberto Cervera</h1>
-<h3 align="center">Apasionado del Desarrollo Web FullStack</h3>
+<h3 align="center">Apasionado del Desarrollo Web Frontend</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=albertocervera&label=Profile%20views&color=0e75b6&style=flat" alt="albertocervera" /> </p>
 
