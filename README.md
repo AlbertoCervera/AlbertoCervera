@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=albertocervera&label=Profile%20views&color=0e75b6&style=flat" alt="albertocervera" /> </p>
 
-- Actualmente trabajando en Grupo Auttic **Desarrollo de Aplicaciones Web**
+
 
 - Actualmente trabajando con **Nodejs y React**
 
