@@ -5,7 +5,7 @@
 
 
 
-- Actualmente trabajando con **Nodejs y React**
+- Actualmente trabajando con **NextJs y React**
 
 - 👨‍💻 Puedes ver mi portfolio aquí [https://albertocervera.github.io/](https://albertocervera.github.io/)
 
