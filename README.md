@@ -1,23 +1,107 @@
 <h1 align="center">Hola 👋, soy Alberto Cervera</h1>
-<h3 align="center">Apasionado del Desarrollo Web Frontend</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=albertocervera&label=Profile%20views&color=0e75b6&style=flat" alt="albertocervera" /> </p>
+<h3 align="center">Frontend Developer especializado en React, Next.js y TypeScript</h3>
 
-
-
-- Actualmente trabajando con **NextJs y React**
-
-- 👨‍💻 Puedes ver mi portfolio aquí [https://albertocervera.github.io/](https://albertocervera.github.io/)
-
-- 📫 Puedes contactarme en **alberto.cervera@hotmail.es**
-
-
-<p align="left">
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AlbertoCervera&label=Visitas%20al%20perfil&color=0e75b6&style=flat" alt="Visitas al perfil de Alberto Cervera" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain-wordmark.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://pugjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+---
+
+### 👨‍💻 Sobre mí
+
+Soy **Frontend Developer en UNIVERSAE**, especializado en el desarrollo de aplicaciones web modernas con **React, Next.js y TypeScript**.
+
+Me gusta trabajar en proyectos donde el frontend va más allá de construir interfaces: arquitectura, mantenibilidad, rendimiento, reutilización de componentes y una buena experiencia de usuario forman parte del desarrollo desde el principio.
+
+Actualmente trabajo principalmente con ecosistemas **React / Next.js**, arquitecturas modulares y herramientas modernas de desarrollo frontend.
+
+- 💼 Frontend Developer en **UNIVERSAE**
+- ⚛️ Especializado en **React, Next.js y TypeScript**
+- 🏗️ Experiencia trabajando con **arquitecturas DDD / Hexagonal**
+- 🧩 Desarrollo de componentes reutilizables y sistemas frontend escalables
+- 🔌 Integración y consumo de **APIs REST**
+- 🎨 Trabajo con sistemas de diseño y librerías de componentes
+- 🌱 Siempre aprendiendo y mejorando arquitectura, rendimiento y calidad de código
+
+📫 **Contacto:** alberto.cervera@hotmail.es
+
+---
+
+## 🛠️ Tecnologías
+
+### Core Frontend
 
 <p>
-  
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css" alt="React, Next.js, TypeScript, JavaScript, HTML y CSS" />
+</p>
 
+### UI & Styling
+
+<p>
+  <img src="https://skillicons.dev/icons?i=tailwind,sass" alt="Tailwind CSS y Sass" />
+</p>
+
+También trabajo habitualmente con:
+
+`Ant Design` · `CSS Modules` · `Responsive Design` · `Component Design`
+
+### Estado, datos y aplicaciones
+
+`React Query` · `Zustand` · `Axios` · `React Router` · `NextAuth` · `i18next` · `next-intl`
+
+### Arquitectura & Calidad
+
+`DDD` · `Arquitectura Hexagonal` · `Clean Architecture` · `Component-driven development`
+
+### Tooling
+
+<p>
+  <img src="https://skillicons.dev/icons?i=vite,docker,git,github,bash,vscode,figma" alt="Vite, Docker, Git, GitHub, Bash, VS Code y Figma" />
+</p>
+
+`pnpm` · `Turborepo` · `Storybook` · `DDEV` · `WP-CLI`
+
+### WordPress
+
+<p>
+  <img src="https://skillicons.dev/icons?i=wordpress,php" alt="WordPress y PHP" />
+</p>
+
+
+---
+
+## 🚀 Actualmente trabajando con
+
+```text
+React
+Next.js
+TypeScript
+Ant Design
+Tailwind CSS
+React Query
+Zustand
+Storybook
+Turborepo
+pnpm
+Docker
+DDEV
+```
+
+---
+
+## 📊 GitHub
+
+<p align="center">
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=AlbertoCervera&show_icons=true&locale=es&layout=compact&hide_border=true"
+    alt="Lenguajes más utilizados por Alberto Cervera"
+  />
+</p>
+
+---
+
+<p align="center">
+  <i>Construyendo interfaces mantenibles, escalables y pensadas para producto.</i>
+</p>
